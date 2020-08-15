@@ -4,6 +4,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=520MianXiangDuiXiang520&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👋 Hi, It's JuneBao
 Love programming and be happy to make friends.
 
