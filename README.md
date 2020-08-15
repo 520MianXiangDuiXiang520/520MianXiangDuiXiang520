@@ -14,5 +14,3 @@
 ![](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 <a href="https://junebao.top"> <img src="https://img.shields.io/badge/Blog-JuneBlog-brightgreen" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
