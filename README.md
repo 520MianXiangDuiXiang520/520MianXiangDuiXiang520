@@ -1,4 +1,4 @@
-### 今天我们写的每一行 Bug, 都是人类在反抗人工智能统治战斗中的一颗子弹。🐱‍👤🐱‍👤
+### 不要说我们一无所有，我们要把这个世界格式化。🐱‍👤🐱‍👤
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=520MianXiangDuiXiang520&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
