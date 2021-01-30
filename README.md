@@ -16,6 +16,5 @@
 <a href="https://junebao.top"> <img src="https://img.shields.io/badge/Blog-JuneBlog-brightgreen" /></a>
 
 <div>
-<iframe src="//player.bilibili.com/player.html?aid=60731116&bvid=BV1qt411j7fV&cid=106015992&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
-</iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="//music.163.com/outchain/player?type=2&id=114389&auto=0&height=66"></iframe>
 </div>
