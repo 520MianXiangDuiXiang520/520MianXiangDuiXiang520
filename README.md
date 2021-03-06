@@ -14,3 +14,4 @@
 ![](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 <a href="https://junebao.top"> <img src="https://img.shields.io/badge/Blog-JuneBlog-brightgreen" /></a>
+<img src="https://profile-counter.glitch.me/520MianXiangDuiXiang/count.svg">
