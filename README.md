@@ -15,3 +15,4 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 <a href="https://junebao.top"> <img src="https://img.shields.io/badge/Blog-JuneBlog-brightgreen" /></a>
 <img src="https://profile-counter.glitch.me/520MianXiangDuiXiang/count.svg">
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/520MianXiangDuiXiang520/langs?time_range=one_year&use_percent=True&theme=classic)](https://githubtrends.io)
