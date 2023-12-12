@@ -8,7 +8,7 @@
 
 ### 👋 Hi, It's JuneBao
 
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/520MianXiangDuiXiang520/langs?time_range=one_year&use_percent=True&compact=True&theme=classic)(https://api.githubtrends.io/user/svg/520MianXiangDuiXiang520/langs?time_range=one_year&theme=classic))](https://githubtrends.io)
+![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/520MianXiangDuiXiang520/langs?time_range=one_year&use_percent=True&compact=True&theme=classic)
 <br>
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
