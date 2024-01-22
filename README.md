@@ -6,7 +6,6 @@
 </a>
 
 
-### 👋 Hi, It's JuneBao
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/520MianXiangDuiXiang520/langs?time_range=one_year&include_private=True&compact=True&theme=classic)
 <br>
